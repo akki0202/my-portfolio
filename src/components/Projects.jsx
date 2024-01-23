@@ -1,7 +1,6 @@
 import React from 'react'
 import sms from '../assets/projects/sms.png'
 import csew from '../assets/projects/csew.png'
-import fer from '../assets/projects/fer.png'
 import hdp from '../assets/projects/hdp.png'
 
 const Projects = () => {
@@ -10,26 +9,20 @@ const Projects = () => {
             id:1,
             src:sms,
             title:'School Management System',
-            href:'https://github.com/deepakyadav-02/School-Management-System.git'
+            href:'https://github.com/akki0202/School-Management-System.git'
         },
         {
             id:2,
             src:csew,
-            title:'CSE-Website',
-            href:'https://github.com/deepakyadav-02/CSE-Website.git'
+            title:'My-Portfolio',
+            href:'https://github.com/akki0202/my-portfolio.git'
           
         },
         {
             id:3,
             src:hdp,
-            title:'Heart Disease Prediction',
-            href:'https://github.com/deepakyadav-02/heart-disease-prediction.git'
-        },
-        {
-            id:4,
-            src:fer,
-            title:'Facial Emotion Recognition',
-            href:'https://github.com/deepakyadav-02/emotion-detector.git'
+            title:'Chat Application',
+            href:'https://github.com/akki0202/chat_application.git'
         },
 
     ]
